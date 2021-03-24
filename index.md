@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
 <head>
   <meta charset="utf-8">
   <hr size="4" noshade>
   <center>
     <title>❦❤SIU HeadStart❦❤</title>
-</head>
+
 
 <body style="background-color: #f7d9d9;">
   <img src="h.jpg" alt="SIU HeadStart preschool">
@@ -18,11 +18,11 @@
   <h1><a href="weely reports.HTML">Courses</a></h1>
   <h1><a href="weely reports.HTML">Trainings</a></h1>
 
-</center>
+
 
 
 
 
 </body>
 
-</html>
+
